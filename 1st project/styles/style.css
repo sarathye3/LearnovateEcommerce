@@ -1,0 +1,100 @@
+header{
+    margin-top: 30px;
+    width: 99%;
+    margin-right: 35px;
+    height: 500px;
+    background-image:url(/1st\ project/images/headerBG.png);
+    background-size: cover;
+}
+header nav ul{
+    display:inline-flex;
+}
+header nav ul li{
+    display: inline-block;
+}
+header nav ul li a{
+    padding-right: 5px;
+    text-decoration: none;
+    color: white;
+}
+header nav ul li a img{
+    padding: 5px;
+    width: 30px;
+    height: 30px;
+}
+header nav ul#leftNav{
+    padding-left: 40px;
+}
+header nav ul#rightNav{
+    float: right;
+    padding-right: 30px;
+}
+header nav ul#rightNav li.navtext{
+    font-size: small;
+    margin-top: 5px;
+    padding-right: 20px;
+}
+header nav ul#rightNav li a img{
+    width: 25px;
+    height: 25px;
+}
+hr{
+    border: none;
+    border-top: 1px dashed #fff;
+}
+header nav#navBar{
+    margin-left:40px;
+    padding-right: 10px;
+}
+header nav ul li a img#logo{
+    width: 45px;
+    height: 45px;
+}
+header nav ul li.navBarText{
+    font-size: larger;
+    margin-top: 12px;
+}
+header nav ul li.navBarText a{
+color: green;
+}
+header nav ul#rightNavBar{
+    float: right;
+    padding-right: 40px;
+}
+header nav ul#rightNavBar li{
+    padding-left:20px ;
+    font-size: small;
+}
+header h2{
+    text-align: center;
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-size: xx-large;
+    font-weight: 400;
+
+}
+header h1{
+    text-align: center;
+    color: white;
+    font-weight: 900;
+}
+div#home{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 180px;
+    height: 40px;
+    padding-top:10px;
+    border-radius: 10px;
+    background-color: white;
+    
+    
+}
+div#home a{
+    
+    text-decoration: none;
+    color: green;
+    font-size:larger;
+    font-weight: 600;
+ 
+}
