@@ -140,7 +140,7 @@ table {
 }
 body,
 figure {
-  margin: 0;
+  margin: auto;
 }
 legend,
 button::-moz-focus-inner,

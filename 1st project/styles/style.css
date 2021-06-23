@@ -19,11 +19,12 @@ header nav ul li a{
 }
 header nav ul li a img{
     padding: 5px;
-    width: 30px;
-    height: 30px;
+    width: 35px;
+    height: 35px;
 }
 header nav ul#leftNav{
     padding-left: 40px;
+    margin-top: 20px;
 }
 header nav ul#rightNav{
     float: right;
@@ -31,12 +32,13 @@ header nav ul#rightNav{
 }
 header nav ul#rightNav li.navtext{
     font-size: small;
-    margin-top: 5px;
+    margin-top: 15px;
     padding-right: 20px;
 }
 header nav ul#rightNav li a img{
     width: 25px;
     height: 25px;
+    margin-top: 10px;
 }
 hr{
     border: none;
