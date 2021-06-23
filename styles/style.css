@@ -3,7 +3,7 @@ header{
     width: 99%;
     margin-right: 35px;
     height: 500px;
-    background-image:url(/1st\ project/images/headerBG.png);
+    background-image:url(../images/headerBG.png);
     background-size: cover;
 }
 header nav ul{
