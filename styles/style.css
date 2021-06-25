@@ -111,6 +111,9 @@ section article{
     grid-template-columns:1fr 5fr;
     margin-bottom: 40px;
 }
+section article:hover{
+    border: 3px solid green;
+}
 section article div{
     margin-left: 35px;
     
