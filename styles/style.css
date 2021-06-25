@@ -227,6 +227,9 @@ footer div#botFooter div a{
     text-decoration: none;
     color: white;
 }
+footer div#botFooter div a:hover{
+    color: green;
+}
 footer p#cp{
     margin-top: 30px;
     text-align: center;
@@ -248,12 +251,18 @@ footer div#botFooter div button{
     margin-top: 20px;
     text-decoration: none;
     background-color: green;
+    border: 2px solid;
     border-color: green;
     color: white;
     width: 250px;
     height: 45px;
     font-size:small;
     font-weight: 400;
+}
+footer div#botFooter div button:hover{
+    background-color: white;
+    font-size: 15px;
+    color: green;
 }
 @media only screen and (max-width:600px) {
     body{
